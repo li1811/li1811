@@ -14,6 +14,9 @@ Letteste måten å nå meg er på epost: *lileonora@proton.me*
 Jeg er også på [discord](https://discordapp.com/users/the_noggie) 
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=li1811)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **li1811/li1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
